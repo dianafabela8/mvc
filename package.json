@@ -16,6 +16,9 @@
     "url": "https://github.com/coding-boot-camp/module-14-project-mvc/issues"
   },
   "homepage": "https://github.com/coding-boot-camp/module-14-project-mvc#readme",
+  "engines": {
+    "node": "18"
+  },
   "dependencies": {
     "bcrypt": "^4.0.1",
     "connect-session-sequelize": "^6.1.1",
